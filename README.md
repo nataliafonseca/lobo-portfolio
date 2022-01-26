@@ -2,7 +2,7 @@
 
 ![Banner](./assets/banner.png)
 
-Exemplo de site de portfolio criado durante o curso HTML e CSS para iniciantes, da Origamid.
+Exemplo de site de portfolio criado durante o curso HTML e CSS para iniciantes, da [Origamid](https://www.origamid.com/).
 
 ---
 
